@@ -21,3 +21,21 @@ b) Packages für TWI in Python und R:
 - Python: pyDEM
 
 - R: dynatopmodel
+
+Quellen:
+
+
+Mattivi, P., Franci, F., Lambertini, A. & Bitelli, G. (2019): TWI computation: a comparison of different open source GISs. In: Open Geospatial Data, Software and Standards, 4 (6).
+
+ 
+
+
+Pourali, S. H., Arrowsmith, C., Chrisman, N., Matkan, A. A., & Mitchell, D. (2016). Topography wetness index application in flood-risk-based land use planning. Applied Spatial Analysis and Policy, 9(1), 39-54
+
+.
+The Comprehensive R Archive Network : https://cran.r-project.org/web/packages/dynatopmodel/dynatopmodel.pdf
+
+ 
+
+
+The Python Package Index: https://pypi.org/project/pyDEM/0.1.1/
